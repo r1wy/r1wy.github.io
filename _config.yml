@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: 
 
 permalink: /:title/
 markdown: kramdown
