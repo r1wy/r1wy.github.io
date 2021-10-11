@@ -1,4 +1,4 @@
-# ry1w.github.io
+#r1wy.github.io
 
     this is a personal blog..  
    suchy stuff .. 
